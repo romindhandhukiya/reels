@@ -1,0 +1,54 @@
+.loginWrapper{
+    display: flex;
+    justify-content: center;
+}
+
+.loginCard{
+    width: 25vw;
+    margin-top: 10%;
+}
+
+.logo{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    margin-top: 3%;
+}
+
+.logo img{
+    width: 15vw;
+}
+
+.text{
+    color: grey;
+    text-align: center;
+}
+
+.card2{
+    height: 5vh;
+    margin-top: 1%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text2{
+    display: flex;
+    justify-content: center;
+}
+
+.imgCarousel{
+    height: 590px;
+    width: 441px;
+    margin-top: 8vh;
+    position: relative;
+}
+
+.img{
+    position: absolute;
+    height: 423px;
+    width: 241px;
+    left: 143px;
+    top: 93px;
+}
